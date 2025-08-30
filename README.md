@@ -43,6 +43,11 @@ If you run in Colab, everything is pre-installed
 ### Training Progress GIF  
 ![Training Progress](images/progress.gif)  
 
+### Training Progress GIF - 60 Epochs
+![Training Progress](images/progress60.gif)  
+
+
+
 ---
 
 ## References  
