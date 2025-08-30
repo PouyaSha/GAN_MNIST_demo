@@ -38,10 +38,10 @@ If you run in Colab, everything is pre-installed
 ![Loss](images/GAN_Loss.png)  
 
 ### Generated Samples at Epoch 20  
-![Epoch 100](images/GAN_samples.png)  
+![Epoch 20](images/GAN_samples.png)  
 
 ### Training Progress GIF  
-![Training Progress](progress.gif)  
+![Training Progress](images/progress.gif)  
 
 ---
 
